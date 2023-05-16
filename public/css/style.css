@@ -3,7 +3,7 @@
 :root {
 	--dark-color-a: #667aff;
 	--dark-color-b: #7386ff;
-	--light-color: #a7f5b8;
+	--light-color: #c2e7f9;
 	--success-color: #5cb85c;
 	--error-color: #d9534f;
 }
@@ -91,7 +91,7 @@ a {
 	overflow-y: scroll;
 }
 
-.chat-messages .message {
+.chat-messages .message{
 	padding: 10px;
 	margin-bottom: 15px;
 	background-color: var(--light-color);
